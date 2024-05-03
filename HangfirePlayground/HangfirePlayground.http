@@ -1,0 +1,6 @@
+@HangfirePlayground_HostAddress = http://localhost:5043
+
+GET {{HangfirePlayground_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
